@@ -2,7 +2,7 @@
 
 ## Setup
 
-* Update absolute path for `root` in [nginx.conf](https://github.com/searchingforlife/nginx-substitution/blob/main/nginx.conf#L12)
+* Update absolute path for `root` in [nginx.conf](https://github.com/searchingforlife/nginx-substitution/blob/main/nginx.conf#L12) to point to this repo.
 * Now, we can run
 
 ```sh
